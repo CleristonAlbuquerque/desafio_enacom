@@ -48,15 +48,3 @@ Utilizamos o Mean Squared Error (MSE) como métrica de avaliação de desempenho
 Clériston Cláudio Carneiro Pereira de Albuquerque é graduado em Engenharia de Produção pela Faculdade Boa Viagem, mestre em Engenharia de Produção pela UFPE,
 possui MBA em Investimento em Ações e Mercado de Capitais pela UNICAP, MBA em Ciência de dados para o mercado financeiro pela XP Educação e atualmente está graduando em Ciência de Dados pela Wyden.
 É professor de educação profissional pelo Governo de Pernambuco e já atuou em diversas áreas, como na área de planejamento, logística e qualidade.
-
-
-
-## **Contato**
-Nome: Clériston Cláudio Carneiro Pereira de Albuquerque
-E-mail: cleriston.albuquerque@yahoo.com.br
-Telefone: +55 81 98618-0278
-
-## **Sobre o autor**
-Clériston Cláudio Carneiro Pereira de Albuquerque é graduado em Engenharia de Produção pela Faculdade Boa Viagem, mestre em Engenharia de Produção pela UFPE,
-possui MBA em Investimento em Ações e Mercado de Capitais pela UNICAP, MBA em Ciência de dados para o mercado financeiro pela XP Educação e atualmente está graduando em Ciência de Dados pela Wyden.
-É professor de educação profissional pelo Governo de Pernambuco e já atuou em diversas áreas, como na área de planejamento, logística e qualidade.
